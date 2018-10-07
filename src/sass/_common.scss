@@ -1,0 +1,18 @@
+/*
+ * Общие переменные scss, стили лейаута, которые применяются
+ * ко всем страницам и стили переиспользуемых элементов
+ */
+
+
+$color-beige: #f0eed5;
+$color-orange: #ff9749;
+$color-text-dark: #230d1a;
+$color-text-grey: #808080;
+
+$font: 'Fira Sans', sans-serif;
+$desktop-width: 1140px;
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
